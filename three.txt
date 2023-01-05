@@ -1,6 +1,2 @@
+
 three - 3
-<<<<<<< HEAD
-3 - three
-=======
-three - 3
->>>>>>> main
